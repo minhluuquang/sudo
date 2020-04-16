@@ -1,0 +1,6 @@
+* Tasks
+
+** TODO Finish Nextjs turtorial
+** TODO Init project with nextjs and tailwind
+** TODO Break down components
+** TODO Finish basic functions of sudofm
